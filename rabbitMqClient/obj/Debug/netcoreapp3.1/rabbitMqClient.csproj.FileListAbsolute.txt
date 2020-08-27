@@ -1,0 +1,16 @@
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\rabbitMqClient.exe
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.csprojAssemblyReference.cache
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.AssemblyInfoInputs.cache
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.AssemblyInfo.cs
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\rabbitMqClient.deps.json
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\rabbitMqClient.runtimeconfig.json
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\rabbitMqClient.runtimeconfig.dev.json
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\rabbitMqClient.dll
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\rabbitMqClient.pdb
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.csproj.CoreCompileInputs.cache
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.csproj.CopyComplete
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.dll
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.pdb
+E:\Code\Practice\Dotnet\rabbitMqtest\rabbitMqClient\obj\Debug\netcoreapp3.1\rabbitMqClient.genruntimeconfig.cache
